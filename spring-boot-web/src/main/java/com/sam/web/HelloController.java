@@ -31,4 +31,9 @@ public class HelloController {
     public String error() {
     	return "Oh no... something wrong in the server!";
     }
+    
+    @RequestMapping("/")
+    public String index() {
+    	return "Index page!";
+    }
 }

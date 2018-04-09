@@ -2940,3 +2940,219 @@
 2018-03-19 23:38:44,417 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
 2018-03-19 23:38:44,420 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-03-19 23:38:44,420 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-19 23:49:15,041 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-19 23:49:15,041 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-19 23:49:15,041 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-19 23:49:15,044 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-19 23:49:15,044 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-19 23:52:38,337 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-19 23:52:38,338 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-19 23:52:38,341 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-03-19 23:52:38,344 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-19 23:52:38,344 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-19 23:56:52,324 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-19 23:56:52,325 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-19 23:56:52,327 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-03-19 23:56:52,329 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-19 23:56:52,330 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-19 23:56:56,264 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-19 23:56:56,264 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-19 23:56:56,266 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-03-19 23:56:56,269 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-19 23:56:56,269 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-19 23:57:15,969 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-19 23:57:15,970 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-19 23:57:15,972 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-03-19 23:57:15,978 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-19 23:57:15,978 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-19 23:58:23,865 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-19 23:58:23,866 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-19 23:58:23,867 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-03-19 23:58:23,869 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-19 23:58:23,870 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:03:51,703 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: spring-boot-web:spring-boot-web:0.0.1-SNAPSHOT @ /Users/fulishang/development/spring-boot/spring-boot-web/pom.xml.
+2018-03-20 00:03:52,330 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:03:52,331 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:03:52,331 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:03:52,336 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:03:52,336 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:03:54,105 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:03:54,106 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-20 00:03:54,128 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-03-20 00:03:54,132 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:03:54,132 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:04:32,659 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: spring-boot-web:spring-boot-web:0.0.1-SNAPSHOT @ /Users/fulishang/development/spring-boot/spring-boot-web/pom.xml.
+2018-03-20 00:04:33,145 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:04:33,146 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:04:33,147 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:04:33,149 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:04:33,150 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:04:34,804 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:04:34,805 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-20 00:04:34,828 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-03-20 00:04:34,833 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:04:34,833 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:04:38,660 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2018-03-20 00:04:38,740 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/fulishang/development/spring-boot/spring-boot-web
+2018-03-20 00:04:38,741 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs /Users/fulishang/software/apache-maven-3.3.9/conf/settings.xml -s /Users/fulishang/software/apache-maven-3.3.9/conf/settings.xml clean package
+2018-03-20 00:06:42,025 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:06:42,026 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-20 00:06:42,028 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-03-20 00:06:42,030 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:06:42,031 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:07:41,070 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:07:41,071 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-20 00:07:41,073 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-03-20 00:07:41,076 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:07:41,076 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:12:01,052 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: spring-boot-web:spring-boot-web:0.0.1-SNAPSHOT @ /Users/fulishang/development/spring-boot/spring-boot-web/pom.xml.
+2018-03-20 00:12:36,766 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: spring-boot-web:spring-boot-web:0.0.1-SNAPSHOT @ /Users/fulishang/development/spring-boot/spring-boot-web/pom.xml.
+2018-03-20 00:12:37,128 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:12:37,130 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:12:37,130 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:12:37,134 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:12:37,134 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:12:38,844 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:12:38,845 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-20 00:12:38,862 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-03-20 00:12:38,866 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:12:38,866 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:12:54,570 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:12:54,572 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-20 00:12:54,574 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-03-20 00:12:54,576 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:12:54,576 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:13:24,717 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:13:24,718 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-20 00:13:24,720 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-03-20 00:13:24,722 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:13:24,723 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:14:16,121 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:14:16,122 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-20 00:14:16,123 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-03-20 00:14:16,124 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:14:16,125 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:16:23,528 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:16:23,529 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-20 00:16:23,530 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-03-20 00:16:23,533 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:16:23,534 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:16:41,270 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:16:41,270 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-20 00:16:41,271 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-03-20 00:16:41,272 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:16:41,273 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:17:14,544 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:17:14,545 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-20 00:17:14,546 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-03-20 00:17:14,550 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:17:14,550 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:18:37,655 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:18:37,656 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-20 00:18:37,657 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-03-20 00:18:37,659 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:18:37,659 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:19:28,609 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:19:28,610 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-20 00:19:28,611 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-03-20 00:19:28,612 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:19:28,613 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:20:55,820 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:20:55,820 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-20 00:20:55,822 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-03-20 00:20:55,823 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:20:55,823 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:21:19,625 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:21:19,626 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-20 00:21:19,627 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-03-20 00:21:19,629 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:21:19,630 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:22:12,007 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:22:12,008 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-20 00:22:12,011 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-03-20 00:22:12,012 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:22:12,013 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:22:55,520 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:22:55,520 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-20 00:22:55,522 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-03-20 00:22:55,524 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:22:55,524 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:23:05,673 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:23:05,674 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-20 00:23:05,675 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-03-20 00:23:05,677 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:23:05,677 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:23:19,667 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:23:19,667 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-20 00:23:19,669 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-03-20 00:23:19,672 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:23:19,673 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:23:43,999 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:23:44,000 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-20 00:23:44,005 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-03-20 00:23:44,007 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:23:44,007 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:30:35,400 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:30:35,401 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-20 00:30:35,404 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-03-20 00:30:35,406 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:30:35,406 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:31:36,744 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:31:36,744 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-20 00:31:36,746 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-03-20 00:31:36,748 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:31:36,748 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:35:26,186 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:35:26,186 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-20 00:35:26,188 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-03-20 00:35:26,190 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:35:26,190 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:35:58,392 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:35:58,394 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-20 00:35:58,395 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-03-20 00:35:58,397 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:35:58,398 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:37:22,538 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2018-03-20 00:37:22,594 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/fulishang/development/spring-boot/spring-boot-web
+2018-03-20 00:37:22,594 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs /Users/fulishang/software/apache-maven-3.3.9/conf/settings.xml -s /Users/fulishang/software/apache-maven-3.3.9/conf/settings.xml clean package
+2018-03-20 00:38:13,954 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:38:13,955 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-20 00:38:13,957 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-03-20 00:38:13,962 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:38:13,962 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:38:15,378 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:38:15,378 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-20 00:38:15,380 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-03-20 00:38:15,382 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:38:15,382 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:38:20,362 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2018-03-20 00:38:20,410 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/fulishang/development/spring-boot/spring-boot-web
+2018-03-20 00:38:20,410 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs /Users/fulishang/software/apache-maven-3.3.9/conf/settings.xml -s /Users/fulishang/software/apache-maven-3.3.9/conf/settings.xml clean package
+2018-03-20 00:44:30,704 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:44:30,706 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-20 00:44:30,707 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-03-20 00:44:30,709 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:44:30,709 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:46:24,021 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:46:24,022 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-20 00:46:24,025 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-03-20 00:46:24,027 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:46:24,027 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:46:32,317 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:46:32,318 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-20 00:46:32,319 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-03-20 00:46:32,320 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-20 00:46:32,320 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 00:59:01,340 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-03-20 00:59:12,232 [Worker-52] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/fulishang/development/spring-boot/gs-spring-boot-demo1
+2018-03-20 00:59:12,232 [Worker-52] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs /Users/fulishang/software/apache-maven-3.3.9/conf/settings.xml -s /Users/fulishang/software/apache-maven-3.3.9/conf/settings.xml clean package
+2018-04-09 22:24:32,276 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-09 22:24:32,287 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-09 22:24:32,313 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-09 22:24:32,317 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-09 22:24:32,317 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-09 22:24:33,800 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-09 22:24:33,801 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-09 22:24:33,817 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-04-09 22:24:33,821 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-09 22:24:33,821 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

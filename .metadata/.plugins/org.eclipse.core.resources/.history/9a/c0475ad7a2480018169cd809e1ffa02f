@@ -1,0 +1,5 @@
+package com.sam.service.impl;
+
+public class UserServiceImpl {
+
+}

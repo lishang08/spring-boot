@@ -10,29 +10,29 @@ import com.sam.entity.User;
 import com.sam.service.UserService;
 
 @Service
-public class UserServiceImpl implements UserService{
+public class UserServiceImpl implements UserService {
 
-	@Autowired
-	private UserDao userDao;
-	
-	public List<User> getUserList() {
-		return userDao.findAll();
-	}
+    @Autowired
+    private UserDao userDao;
 
-	public User findUserById(long id) {
-		return userDao.findById(id);
-	}
+    public List<User> getUserList() {
+        return userDao.findAll();
+    }
 
-	public void save(User user) {
-		userDao.save(user);
-	}
+    public User findUserById(long id) {
+        return userDao.findById(id);
+    }
 
-	public void edit(User user) {
-		userDao.save(user);
-	}
+    public void save(User user) {
+        userDao.save(user);
+    }
 
-	public void delete(long id) {
-		userDao.delete(id);
-	}
+    public void edit(User user) {
+        userDao.save(user);
+    }
+
+    public void delete(long id) {
+        userDao.delete(id);
+    }
 
 }

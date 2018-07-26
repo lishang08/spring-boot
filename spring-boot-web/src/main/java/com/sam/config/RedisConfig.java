@@ -16,10 +16,10 @@ import com.fasterxml.jackson.annotation.JsonAutoDetect;
 import com.fasterxml.jackson.annotation.PropertyAccessor;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-public class RedisConfig extends CachingConfigurerSupport{
+public class RedisConfig extends CachingConfigurerSupport {
 
-	@Bean
-	public KeyGenerator keyGenerator() {
+    @Bean
+    public KeyGenerator keyGenerator() {
         return new KeyGenerator() {
             @Override
             public Object generate(Object target, Method method, Object... params) {
@@ -42,7 +42,7 @@ public class RedisConfig extends CachingConfigurerSupport{
         //rcm.setDefaultExpiration(60);//秒
         return rcm;
     }
-    
+
     @Bean
     public RedisTemplate<String, String> redisTemplate(RedisConnectionFactory factory) {
         StringRedisTemplate template = new StringRedisTemplate(factory);

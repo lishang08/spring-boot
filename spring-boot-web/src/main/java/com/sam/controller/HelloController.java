@@ -17,10 +17,10 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloController {
 
     @RequestMapping("/hello")
-	public String hello(Locale locale, Model model) {
-		return "hello world";
-	}
-    
+    public String hello(Locale locale, Model model) {
+        return "hello world";
+    }
+
     @RequestMapping("/uid")
     String uid(HttpSession session) {
         UUID uid = (UUID) session.getAttribute("uid");
@@ -30,15 +30,15 @@ public class HelloController {
         session.setAttribute("uid", uid);
         return session.getId();
     }
-    
+
     @RequestMapping("/errorPage")
     public String error() {
-    	return "Oh no... something wrong in the server!";
+        return "Oh no... something wrong in the server!";
     }
-    
+
     @RequestMapping("/")
     public String index() {
-    	return "Index page!";
+        return "Index page!";
     }
-    
+
 }

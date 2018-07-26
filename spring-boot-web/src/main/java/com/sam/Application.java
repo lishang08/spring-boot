@@ -16,13 +16,13 @@ import org.springframework.web.bind.annotation.RestController;
 @SpringBootConfiguration
 @EnableAutoConfiguration
 public class Application {
-	
+
 
     @RequestMapping("/hello")
-	public String hello(Locale locale, Model model) {
-		return "hello world";
-	}
-    
+    public String hello(Locale locale, Model model) {
+        return "hello world";
+    }
+
     @RequestMapping("/uid")
     String uid(HttpSession session) {
         UUID uid = (UUID) session.getAttribute("uid");
@@ -32,20 +32,20 @@ public class Application {
         session.setAttribute("uid", uid);
         return session.getId();
     }
-    
+
     @RequestMapping("/errorPage")
     public String error() {
-    	return "Oh no... something wrong in the server!";
-    }
-    
-    @RequestMapping("/")
-    public String index() {
-    	return "Index page!";
+        return "Oh no... something wrong in the server!";
     }
 
-	public static void main(String[] args) {
-		SpringApplication.run(Application.class, args);
-	}
-	
-	
+    @RequestMapping("/")
+    public String index() {
+        return "Index page!";
+    }
+
+    public static void main(String[] args) {
+        SpringApplication.run(Application.class, args);
+    }
+
+
 }

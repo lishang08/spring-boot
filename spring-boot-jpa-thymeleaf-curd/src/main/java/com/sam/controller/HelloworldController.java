@@ -9,16 +9,16 @@ import org.springframework.web.bind.annotation.RequestParam;
 public class HelloworldController {
 
     @RequestMapping("/hello")
-    public String hello(Model model, @RequestParam(value="name", required=false, defaultValue="World") String name) {
+    public String hello(Model model, @RequestParam(value = "name", required = false, defaultValue = "World") String name) {
         model.addAttribute("name", name);
         return "hello";
     }
-    
+
     @RequestMapping("/index")
-    public String index(Model model, @RequestParam(value="greeting", required=false, defaultValue="Hello World") String greeting) {
+    public String index(Model model, @RequestParam(value = "greeting", required = false, defaultValue = "Hello World") String greeting) {
         model.addAttribute("greeting", "You give me nothing, but I give u the whole world!");
         return "index";
     }
-    
-    
+
+
 }
